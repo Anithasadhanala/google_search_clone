@@ -1,0 +1,29 @@
+
+
+.list {
+  list-style-type: none;
+  width: 280px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.para {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 15px;
+  color: #475569;
+}
+.arrow-icon {
+  height: 25px;
+  width: 25px;
+  color: #475569;
+}
+.button {
+  background-color: #ffffff;
+  border: 0px;
+}
+@media screen and (max-width: 576px) {
+  .button {
+    margin-right: 30px;
+  }
+}
