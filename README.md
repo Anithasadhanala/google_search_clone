@@ -5,7 +5,7 @@
 
 
 # V1.0.0
-This is an initial version of the Google search clone
+This is a website that google search and is an initial version of the Google search clone
 
 # Must Know About
 
